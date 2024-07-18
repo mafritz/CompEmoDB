@@ -5,10 +5,30 @@ date: 2024-07-14
 date-modified: last-modified
 ---
 
-## Under contruction
-
 ::: callout-warning
 ## Not yet available
 
 The database is still under conceptual and technical development. You can [participate](participate.qmd) to the project for speeding up the process!
 :::
+
+## About the database
+
+The database will then consists of mainly three elements:
+
+1. Data
+2. Queries
+3. Algorithms
+
+## Data
+
+Data will consists different entities/emotions structured according to the chosen [scheme](./schemes.qmd).
+
+## Queries
+
+Queries are ways to retrieve data from the databse, and they can have practical and theoretical values.
+
+## Algorithms
+
+Algorithms are ways to compute interesting information based on the queried data, for instance by comparing the differences or similarities between entities.
+
+

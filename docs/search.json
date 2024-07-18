@@ -4,14 +4,14 @@
     "href": "schemes.html",
     "title": "Schemes",
     "section": "",
-    "text": "A scheme in a NoSQL database is a data model that define the structure of entries. Contrary to SQL/rectangular data structure, each entry can have its own scheme, different from other entries. In terms of componential emotions, a scheme is therefore the structure of key-values pairs that determine what kind of components and features within component an entry has.\nWhen multiple entries are meant to share the same structure, it is possible to explicit a scheme so that the desired structure can be forced upon entries. The scheme may nevertheless still be flexible, for some elements can be defined as optional.\nAt the same time, schemes can also be harnessed to help the constitution of entries, since they can be integrated in text-editors. In this way, the schema can be used to suggest or auto-complete code when creating new entries.\nThe main idea is therefore for researchers to build consensual schemes that are representative of emotion theories or frameworks. Emotion entries into the CompEmoDB will then be structured according to the decided scheme."
+    "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
   },
   {
     "objectID": "schemes.html#what-is-a-scheme",
     "href": "schemes.html#what-is-a-scheme",
     "title": "Schemes",
-    "section": "",
-    "text": "A scheme in a NoSQL database is a data model that define the structure of entries. Contrary to SQL/rectangular data structure, each entry can have its own scheme, different from other entries. In terms of componential emotions, a scheme is therefore the structure of key-values pairs that determine what kind of components and features within component an entry has.\nWhen multiple entries are meant to share the same structure, it is possible to explicit a scheme so that the desired structure can be forced upon entries. The scheme may nevertheless still be flexible, for some elements can be defined as optional.\nAt the same time, schemes can also be harnessed to help the constitution of entries, since they can be integrated in text-editors. In this way, the schema can be used to suggest or auto-complete code when creating new entries.\nThe main idea is therefore for researchers to build consensual schemes that are representative of emotion theories or frameworks. Emotion entries into the CompEmoDB will then be structured according to the decided scheme."
+    "section": "1 What is a scheme",
+    "text": "1 What is a scheme\nA scheme in a NoSQL database is a data model that define the structure of entries. Contrary to SQL/rectangular data structure, each entry can have its own scheme, different from other entries. In terms of componential emotions, a scheme is therefore the structure of key-values pairs that determine what kind of components and features within component an entry has.\nWhen multiple entries are meant to share the same structure, it is possible to explicit a scheme so that the desired structure can be forced upon entries. The scheme may nevertheless still be flexible, for some elements can be defined as optional.\nAt the same time, schemes can also be harnessed to help the constitution of entries, since they can be integrated in text-editors. In this way, the schema can be used to suggest or auto-complete code when creating new entries.\nThe main idea is therefore for researchers to build consensual schemes that are representative of emotion theories or frameworks. Emotion entries into the CompEmoDB will then be structured according to the decided scheme."
   },
   {
     "objectID": "schemes.html#the-proposed-macro-structure",
@@ -98,24 +98,45 @@
     "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
   },
   {
-    "objectID": "database.html#under-contruction",
-    "href": "database.html#under-contruction",
+    "objectID": "database.html#about-the-database",
+    "href": "database.html#about-the-database",
     "title": "The Database",
-    "section": "",
-    "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
+    "section": "1 About the database",
+    "text": "1 About the database\nThe database will then consists of mainly three elements:\n\nData\nQueries\nAlgorithms"
   },
   {
-    "objectID": "participate.html",
-    "href": "participate.html",
-    "title": "Participate",
-    "section": "",
-    "text": "About this site"
+    "objectID": "database.html#data",
+    "href": "database.html#data",
+    "title": "The Database",
+    "section": "2 Data",
+    "text": "2 Data\nData will consists different entities/emotions structured according to the chosen scheme."
+  },
+  {
+    "objectID": "database.html#queries",
+    "href": "database.html#queries",
+    "title": "The Database",
+    "section": "3 Queries",
+    "text": "3 Queries\nQueries are ways to retrieve data from the databse, and they can have practical and theoretical values."
+  },
+  {
+    "objectID": "database.html#algorithms",
+    "href": "database.html#algorithms",
+    "title": "The Database",
+    "section": "4 Algorithms",
+    "text": "4 Algorithms\nAlgorithms are ways to compute interesting information based on the queried data, for instance by comparing the differences or similarities between entities."
   },
   {
     "objectID": "project.html",
     "href": "project.html",
     "title": "The Project",
     "section": "",
-    "text": "About this site"
+    "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
+  },
+  {
+    "objectID": "project.html#whats-the-project-about",
+    "href": "project.html#whats-the-project-about",
+    "title": "The Project",
+    "section": "1 What’s the project about",
+    "text": "1 What’s the project about"
   }
 ]

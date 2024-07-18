@@ -5,6 +5,12 @@ date: 2024-07-14
 date-modified: last-modified
 ---
 
+::: callout-warning
+## Not yet available
+
+The database is still under conceptual and technical development. You can [participate](participate.qmd) to the project for speeding up the process!
+:::
+
 ## What is a scheme
 
 A scheme in a NoSQL database is a data model that define the structure of entries. Contrary to SQL/rectangular data structure, each entry can have its own scheme, different from other entries. In terms of componential emotions, a scheme is therefore the structure of key-values pairs that determine what kind of components and features within component an entry has.
@@ -45,4 +51,3 @@ Schema can be created with the database agnostic [JSON Schema specification](htt
   "type": "object"
 }
 ```
-
