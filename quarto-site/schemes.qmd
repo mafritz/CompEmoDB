@@ -1,0 +1,48 @@
+---
+title: "Schemes"
+subtitle: "Domain-oriented data structures defined by researchers"
+date: 2024-07-14
+date-modified: last-modified
+---
+
+## What is a scheme
+
+A scheme in a NoSQL database is a data model that define the structure of entries. Contrary to SQL/rectangular data structure, each entry can have its own scheme, different from other entries. In terms of componential emotions, a scheme is therefore the structure of key-values pairs that determine what kind of components and features within component an entry has.
+
+When multiple entries are meant to share the same structure, it is possible to explicit a scheme so that the desired structure can be forced upon entries. The scheme may nevertheless still be flexible, for some elements can be defined as optional.
+
+At the same time, schemes can also be harnessed to help the constitution of entries, since they can be integrated in text-editors. In this way, the schema can be used to suggest or auto-complete code when creating new entries.
+
+The main idea is therefore for researchers to build consensual schemes that are representative of emotion theories or frameworks. Emotion entries into the CompEmoDB will then be structured according to the decided scheme.
+
+## The Proposed Macro-Structure
+
+The CompEmoDB proposes a very flexible macro-structure that divides a database entry in two main sub-structures:
+
+1.  `metadata`
+2.  `components`
+
+### Metadata
+
+The `metadata` sub-structure is meant to provide contextual information about the entry, which are useful to situate the entry within the larger picture both theoretically and technically.
+
+### Components
+
+The `components` sub-structure provides the domain-oriented
+
+## How to create schemes
+
+Schema can be created with the database agnostic [JSON Schema specification](https://json-schema.org/), so that entries are not bound to any specific technology.
+
+## Examples
+
+``` json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://comp-emo-db.github.io/schemes/example.schema.json",
+  "title": "CompEmoDB Example Scheme",
+  "description": "An example of the technique used to create schemes",
+  "type": "object"
+}
+```
+

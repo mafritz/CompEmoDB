@@ -1,0 +1,12 @@
+---
+title: "Blog"
+subtitle: "A collection of articles, tutorials, and other resources"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  sort-ui: true
+  filter-ui: true
+  categories: true
+  feed: true
+---

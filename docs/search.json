@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "schemes.html",
+    "href": "schemes.html",
+    "title": "Schemes",
+    "section": "",
+    "text": "A scheme in a NoSQL database is a data model that define the structure of entries. Contrary to SQL/rectangular data structure, each entry can have its own scheme, different from other entries. In terms of componential emotions, a scheme is therefore the structure of key-values pairs that determine what kind of components and features within component an entry has.\nWhen multiple entries are meant to share the same structure, it is possible to explicit a scheme so that the desired structure can be forced upon entries. The scheme may nevertheless still be flexible, for some elements can be defined as optional.\nAt the same time, schemes can also be harnessed to help the constitution of entries, since they can be integrated in text-editors. In this way, the schema can be used to suggest or auto-complete code when creating new entries.\nThe main idea is therefore for researchers to build consensual schemes that are representative of emotion theories or frameworks. Emotion entries into the CompEmoDB will then be structured according to the decided scheme."
+  },
+  {
+    "objectID": "schemes.html#what-is-a-scheme",
+    "href": "schemes.html#what-is-a-scheme",
+    "title": "Schemes",
+    "section": "",
+    "text": "A scheme in a NoSQL database is a data model that define the structure of entries. Contrary to SQL/rectangular data structure, each entry can have its own scheme, different from other entries. In terms of componential emotions, a scheme is therefore the structure of key-values pairs that determine what kind of components and features within component an entry has.\nWhen multiple entries are meant to share the same structure, it is possible to explicit a scheme so that the desired structure can be forced upon entries. The scheme may nevertheless still be flexible, for some elements can be defined as optional.\nAt the same time, schemes can also be harnessed to help the constitution of entries, since they can be integrated in text-editors. In this way, the schema can be used to suggest or auto-complete code when creating new entries.\nThe main idea is therefore for researchers to build consensual schemes that are representative of emotion theories or frameworks. Emotion entries into the CompEmoDB will then be structured according to the decided scheme."
+  },
+  {
+    "objectID": "schemes.html#the-proposed-macro-structure",
+    "href": "schemes.html#the-proposed-macro-structure",
+    "title": "Schemes",
+    "section": "2 The Proposed Macro-Structure",
+    "text": "2 The Proposed Macro-Structure\nThe CompEmoDB proposes a very flexible macro-structure that divides a database entry in two main sub-structures:\n\nmetadata\ncomponents\n\n\n2.1 Metadata\nThe metadata sub-structure is meant to provide contextual information about the entry, which are useful to situate the entry within the larger picture both theoretically and technically.\n\n\n2.2 Components\nThe components sub-structure provides the domain-oriented"
+  },
+  {
+    "objectID": "schemes.html#how-to-create-schemes",
+    "href": "schemes.html#how-to-create-schemes",
+    "title": "Schemes",
+    "section": "3 How to create schemes",
+    "text": "3 How to create schemes\nSchema can be created with the database agnostic JSON Schema specification, so that entries are not bound to any specific technology."
+  },
+  {
+    "objectID": "schemes.html#examples",
+    "href": "schemes.html#examples",
+    "title": "Schemes",
+    "section": "4 Examples",
+    "text": "4 Examples\n{\n  \"$schema\": \"https://json-schema.org/draft/2020-12/schema\",\n  \"$id\": \"https://comp-emo-db.github.io/schemes/example.schema.json\",\n  \"title\": \"CompEmoDB Example Scheme\",\n  \"description\": \"An example of the technique used to create schemes\",\n  \"type\": \"object\"\n}"
+  },
+  {
+    "objectID": "posts/isre2024-poster-presentation/index.html",
+    "href": "posts/isre2024-poster-presentation/index.html",
+    "title": "Towards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.",
+    "section": "",
+    "text": "Componential theories posit that emotion elicitation and differentiation result from the synchronization of several subsystems such as cognitive, motivational, physiological, motor expression, and experiential. Theories differ, though, in (1) the nature of the synchronization, such as causal, associative, or connectionist (Barrett, 2017; Scherer, 2019; Suri & Gross, 2022); and (2) the kind of components and features within them (e.g. evaluative criteria, lexicalized emotions). Attempts to characterize emotions with componential profiles must therefore face the sheer number of possible combinations. For instance, the GRID system (Fontaine et al., 2013) provides 142 columns-like features shared by every row representing a discrete emotion. A rectangular data representation, though, forces a profile that is difficult to fit and scale to a wide variety of emotion structures. It may thus be worth investigating the feasibility and interest for a collective, theory-agnostic, and loosely structured database of componential emotions in which entries can leverage on more flexible data structures provided by NoSQL databases. These structures present the following advantages: (1) entries don’t have to provide the same number or kind of components and features; (2) the structure can be nested, for components to be sub-organized in more fine-grained criteria, including multiple and alternative options; and (3) entries can be augmented by multi-modal features such as images, videos, or sounds. The many potential applications of the database include measures of distance/similarity between emotions, computable both from the structure and values of entries, or complex queries adopted to retrieve richer profiles from partial inputs."
+  },
+  {
+    "objectID": "posts/isre2024-poster-presentation/index.html#introduction",
+    "href": "posts/isre2024-poster-presentation/index.html#introduction",
+    "title": "Towards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.",
+    "section": "",
+    "text": "Componential theories posit that emotion elicitation and differentiation result from the synchronization of several subsystems such as cognitive, motivational, physiological, motor expression, and experiential. Theories differ, though, in (1) the nature of the synchronization, such as causal, associative, or connectionist (Barrett, 2017; Scherer, 2019; Suri & Gross, 2022); and (2) the kind of components and features within them (e.g. evaluative criteria, lexicalized emotions). Attempts to characterize emotions with componential profiles must therefore face the sheer number of possible combinations. For instance, the GRID system (Fontaine et al., 2013) provides 142 columns-like features shared by every row representing a discrete emotion. A rectangular data representation, though, forces a profile that is difficult to fit and scale to a wide variety of emotion structures. It may thus be worth investigating the feasibility and interest for a collective, theory-agnostic, and loosely structured database of componential emotions in which entries can leverage on more flexible data structures provided by NoSQL databases. These structures present the following advantages: (1) entries don’t have to provide the same number or kind of components and features; (2) the structure can be nested, for components to be sub-organized in more fine-grained criteria, including multiple and alternative options; and (3) entries can be augmented by multi-modal features such as images, videos, or sounds. The many potential applications of the database include measures of distance/similarity between emotions, computable both from the structure and values of entries, or complex queries adopted to retrieve richer profiles from partial inputs."
+  },
+  {
+    "objectID": "posts/isre2024-poster-presentation/index.html#the-poster",
+    "href": "posts/isre2024-poster-presentation/index.html#the-poster",
+    "title": "Towards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.",
+    "section": "2 The Poster",
+    "text": "2 The Poster\nThe image of the poster is depicted in Figure 1. The content is organized in three columns, with the first briefly presenting the issue, the second the possible solution, and the third the possible applications of the database.\n\n\n\n\n\n\nFigure 1: Image of the presented poster"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Componential Emotions Database",
+    "section": "",
+    "text": "CompEmoDB is an academic project, which aims at creating a collective and theory-agnostic database of componential emotions based on consensual data modeling schemes defined by researchers. In this site you will find:\n\nan overview of the project\nhow to interact with the database\nwhat schemes are and how to use or create them\nan academic-style blog with articles, tutorials and resources\nways you can participate to the project"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Componential Emotions Database",
+    "section": "",
+    "text": "CompEmoDB is an academic project, which aims at creating a collective and theory-agnostic database of componential emotions based on consensual data modeling schemes defined by researchers. In this site you will find:\n\nan overview of the project\nhow to interact with the database\nwhat schemes are and how to use or create them\nan academic-style blog with articles, tutorials and resources\nways you can participate to the project"
+  },
+  {
+    "objectID": "index.html#last-blog-posts",
+    "href": "index.html#last-blog-posts",
+    "title": "Componential Emotions Database",
+    "section": "2 Last Blog Posts",
+    "text": "2 Last Blog Posts\nThe most recent posts on the blog. See the full listing.\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJul 14, 2024\n\n\nTowards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.\n\n\nMattia Fritz\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "Componential Emotions Database",
+    "section": "3 Contacts",
+    "text": "3 Contacts\nMattia A. Fritz, PhD\nResearch Associate\nTECFA & Swiss Center for Affective Sciences\nUniversité de Genève\nSwitzerland\nMail: mattia.fritz@unige.ch\nWeb: mafritz.ch\nLetters are welcome in English, French and Italian."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nTowards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.\n\n\n\nnews\n\n\nconference\n\n\nposter\n\n\n\nPoster presented at the ISRE2024 conference\n\n\n\nMattia Fritz\n\n\nJul 14, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "database.html",
+    "href": "database.html",
+    "title": "The Database",
+    "section": "",
+    "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
+  },
+  {
+    "objectID": "database.html#under-contruction",
+    "href": "database.html#under-contruction",
+    "title": "The Database",
+    "section": "",
+    "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
+  },
+  {
+    "objectID": "participate.html",
+    "href": "participate.html",
+    "title": "Participate",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "The Project",
+    "section": "",
+    "text": "About this site"
+  }
+]

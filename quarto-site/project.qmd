@@ -1,0 +1,8 @@
+---
+title: "The Project"
+subtitle: "A collective database of componential emotions"
+date: 2024-07-14
+date-modified: last-modified
+---
+
+## What's the project about

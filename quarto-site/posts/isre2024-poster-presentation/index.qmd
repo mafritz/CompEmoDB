@@ -1,0 +1,39 @@
+---
+title: "Towards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion."
+description: "Poster presented at the ISRE2024 conference"
+date: 2024-07-14
+date-modified: last-modified
+author:
+  - name:
+      given: Mattia
+      middle: Alexandre
+      family: Fritz
+    orcid: 0000-0002-1633-3518
+    email: mattia.fritz@unige.ch
+    affiliation: 
+      - name: Université de Genève
+        city: Geneva
+        country: Switzerland
+        url: www.unige.ch
+abstract: > 
+  The poster that first introduced the project at the International Society for Research on Emotion (ISRE) conference in Belfast, Northern Ireland, in July 2024.
+bibliography: references.bib
+citation: true
+csl: ../../apa.csl
+citation-location: document
+license: "CC BY-NC-SA"
+categories:
+  - news
+  - conference
+  - poster
+---
+
+## Introduction
+
+Componential theories posit that emotion elicitation and differentiation result from the synchronization of several subsystems such as cognitive, motivational, physiological, motor expression, and experiential. Theories differ, though, in (1) the nature of the synchronization, such as causal, associative, or connectionist [@barrett2017; @suri2022; @scherer2019]; and (2) the kind of components and features within them (e.g. evaluative criteria, lexicalized emotions). Attempts to characterize emotions with componential profiles must therefore face the sheer number of possible combinations. For instance, the GRID system [@fontaineWhyWhatHow2013] provides 142 columns-like features shared by every row representing a discrete emotion. A rectangular data representation, though, forces a profile that is difficult to fit and scale to a wide variety of emotion structures. It may thus be worth investigating the feasibility and interest for a collective, theory-agnostic, and loosely structured database of componential emotions in which entries can leverage on more flexible data structures provided by NoSQL databases. These structures present the following advantages: (1) entries don’t have to provide the same number or kind of components and features; (2) the structure can be nested, for components to be sub-organized in more fine-grained criteria, including multiple and alternative options; and (3) entries can be augmented by multi-modal features such as images, videos, or sounds. The many potential applications of the database include measures of distance/similarity between emotions, computable both from the structure and values of entries, or complex queries adopted to retrieve richer profiles from partial inputs.
+
+## The Poster
+
+The image of the poster is depicted in @fig-poster-full-page. The content is organized in three columns, with the first briefly presenting the issue, the second the possible solution, and the third the possible applications of the database.
+
+![Image of the presented poster](poster-image.png){#fig-poster-full-page}

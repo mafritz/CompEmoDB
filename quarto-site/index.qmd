@@ -1,0 +1,46 @@
+---
+title: "Componential Emotions Database"
+subtitle: "Welcome to the project's companion website!"
+listing:
+  id: recent-posts
+  contents: posts
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  type: table
+  max-items: 5
+---
+
+## About this site
+
+**CompEmoDB** is an academic project, which aims at creating a collective and theory-agnostic database of componential emotions based on consensual data modeling schemes defined by researchers. In this site you will find:
+
+-   an [overview of the project](project.qmd)
+
+-   how to interact with [the database](database.qmd)
+
+-   what [schemes](schemes.qmd) are and how to use or create them
+
+-   an [academic-style blog](blog.qmd) with articles, tutorials and resources
+
+-   ways you can [participate](participate.qmd) to the project
+
+## Last Blog Posts
+
+The most recent posts on the blog. See the [full listing](blog.qmd).
+
+::: {#recent-posts}
+:::
+
+## Contacts
+
+**Mattia A. Fritz**, PhD\
+Research Associate\
+TECFA & Swiss Center for Affective Sciences\
+Université de Genève\
+Switzerland
+
+Mail: [mattia.fritz\@unige.ch](mailto:mattia.fritz@unige.ch)\
+Web: [mafritz.ch](https://mafritz.ch)
+
+Letters are welcome in English, French and Italian.

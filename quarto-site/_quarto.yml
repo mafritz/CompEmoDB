@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "CompEmoDB"
+  site-url: "https://comp-emo-db.github.io"
+  navbar:
+    title: "{CompEmoDB}"
+    background: "light"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Project
+      - href: database.qmd
+        text: Database
+      - href: schemes.qmd
+        text: Schemes
+      - href: blog.qmd
+        text: Blog
+      - href: participate.qmd
+        text: Participate
+      - href: https://github.com/mafritz/comp-emo-db
+        icon: github
+      - href: blog.xml
+        icon: rss
+  page-footer: 
+    left: "**{CompEmoDB}** project website"
+    border: true
+    background: light
+    right: 
+      - icon: github
+        href: https://github.com/mafritz/comp-emo-db
+      - icon: rss
+        href: blog.xml
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+    fontsize: "1.1rem"
+    linestrech: 1.25
+    title-block-banner: "#0f6586"
+    title-block-banner-color: "#fff"
+    number-sections: true
+    code-fold: true
+    code-line-numbers: true
+
+
+

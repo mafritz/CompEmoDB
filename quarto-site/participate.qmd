@@ -1,0 +1,8 @@
+---
+title: "Participate"
+subtitle: "How to contribute to the project"
+date: 2024-07-14
+date-modified: last-modified
+---
+
+## Different ways to participate

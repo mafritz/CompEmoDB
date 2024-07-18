@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>CompEmoDB</title>
+<link>https://comp-emo-db.github.io/blog.html</link>
+<atom:link href="https://comp-emo-db.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Sat, 13 Jul 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Towards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.</title>
+  <dc:creator>Mattia Fritz</dc:creator>
+  <link>https://comp-emo-db.github.io/posts/isre2024-poster-presentation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introduction" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">1</span> Introduction</h2>
+<p>Componential theories posit that emotion elicitation and differentiation result from the synchronization of several subsystems such as cognitive, motivational, physiological, motor expression, and experiential. Theories differ, though, in (1) the nature of the synchronization, such as causal, associative, or connectionist <span class="citation" data-cites="barrett2017 suri2022 scherer2019">(Barrett, 2017; Scherer, 2019; Suri &amp; Gross, 2022)</span>; and (2) the kind of components and features within them (e.g.&nbsp;evaluative criteria, lexicalized emotions). Attempts to characterize emotions with componential profiles must therefore face the sheer number of possible combinations. For instance, the GRID system <span class="citation" data-cites="fontaineWhyWhatHow2013">(Fontaine et al., 2013)</span> provides 142 columns-like features shared by every row representing a discrete emotion. A rectangular data representation, though, forces a profile that is difficult to fit and scale to a wide variety of emotion structures. It may thus be worth investigating the feasibility and interest for a collective, theory-agnostic, and loosely structured database of componential emotions in which entries can leverage on more flexible data structures provided by NoSQL databases. These structures present the following advantages: (1) entries don’t have to provide the same number or kind of components and features; (2) the structure can be nested, for components to be sub-organized in more fine-grained criteria, including multiple and alternative options; and (3) entries can be augmented by multi-modal features such as images, videos, or sounds. The many potential applications of the database include measures of distance/similarity between emotions, computable both from the structure and values of entries, or complex queries adopted to retrieve richer profiles from partial inputs.</p>
+</section>
+<section id="the-poster" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="the-poster"><span class="header-section-number">2</span> The Poster</h2>
+<p>The image of the poster is depicted in Figure&nbsp;1. The content is organized in three columns, with the first briefly presenting the issue, the second the possible solution, and the third the possible applications of the database.</p>
+<div id="fig-poster-full-page" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-poster-full-page-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://comp-emo-db.github.io/posts/isre2024-poster-presentation/poster-image.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-poster-full-page-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Image of the presented poster
+</figcaption>
+</figure>
+</div>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-barrett2017" class="csl-entry">
+Barrett, L. F. (2017). The theory of constructed emotion: An active inference account of interoception and categorization. <em>Social Cognitive and Affective Neuroscience</em>, <em>12</em>(1), 1–23. <a href="https://doi.org/10.1093/scan/nsw154">https://doi.org/10.1093/scan/nsw154</a>
+</div>
+<div id="ref-fontaineWhyWhatHow2013" class="csl-entry">
+Fontaine, J. R. J., Scherer, K. R., &amp; Soriano, C. (2013). The why, the what, and the how of the GRID instrument. In J. R. J. Fontaine, K. R. Scherer, &amp; C. Soriano (Eds.), <em>Components of emotional meaning: A sourcebook</em> (pp. 83–97). Oxford University Press.
+</div>
+<div id="ref-scherer2019" class="csl-entry">
+Scherer, K. R. (2019). Studying appraisal-driven emotion processes: Taking stock and moving to the future. <em>Cognition and Emotion</em>, <em>33</em>(1), 31–40. <a href="https://doi.org/10.1080/02699931.2018.1510380">https://doi.org/10.1080/02699931.2018.1510380</a>
+</div>
+<div id="ref-suri2022" class="csl-entry">
+Suri, G., &amp; Gross, J. J. (2022). What is an emotion? A connectionist perspective. <em>Emotion Review</em>, <em>14</em>(2), 99–110. <a href="https://doi.org/10.1177/17540739221082203">https://doi.org/10.1177/17540739221082203</a>
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{fritz2024,
+  author = {Fritz, Mattia},
+  title = {Towards a Collective, Theory-Agnostic, and Loosely Structured
+    Database of Componential Emotions. {The} {Poster} {Companion.}},
+  date = {2024-07-14},
+  url = {https://comp-emo-db.github.io/posts/isre2024-poster-presentation},
+  langid = {en},
+  abstract = {The poster that first introduced the project at the
+    International Society for Research on Emotion (ISRE) conference in
+    Belfast, Northern Ireland, in July 2024.}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-fritz2024" class="csl-entry quarto-appendix-citeas">
+Fritz, M. (2024, July 14). <em>Towards a collective, theory-agnostic,
+and loosely structured database of componential emotions. The Poster
+Companion.</em> <a href="https://comp-emo-db.github.io/posts/isre2024-poster-presentation">https://comp-emo-db.github.io/posts/isre2024-poster-presentation</a>
+</div></div></section></div> ]]></description>
+  <category>news</category>
+  <category>conference</category>
+  <category>poster</category>
+  <guid>https://comp-emo-db.github.io/posts/isre2024-poster-presentation/</guid>
+  <pubDate>Sat, 13 Jul 2024 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
