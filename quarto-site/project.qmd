@@ -8,7 +8,9 @@ date-modified: last-modified
 ::: callout-warning
 ## Not yet available
 
-The database is still under conceptual and technical development. You can [participate](participate.qmd) to the project for speeding up the process!
+The project is still under conceptual and technical development. You can [participate](participate.qmd) to the project for speeding up the process!
 :::
 
 ## What's the project about
+
+Please while this page is under construction, please refer to the [poster that first introduced the project introduced in this blog post](./posts/isre2024-poster-presentation/index.html).

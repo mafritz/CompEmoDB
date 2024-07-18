@@ -4,7 +4,7 @@
     "href": "schemes.html",
     "title": "Schemes",
     "section": "",
-    "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
+    "text": "Under construction\n\n\n\nThe project is still under conceptual and technical development. You can participate to the project for speeding up the process!"
   },
   {
     "objectID": "schemes.html#what-is-a-scheme",
@@ -126,17 +126,31 @@
     "text": "4 Algorithms\nAlgorithms are ways to compute interesting information based on the queried data, for instance by comparing the differences or similarities between entities."
   },
   {
+    "objectID": "participate.html",
+    "href": "participate.html",
+    "title": "Participate",
+    "section": "",
+    "text": "There are different ways to participate to the project:\n\nImagine schemes that can model emotions\nAdapt existing data to one of the proposed schemes\nWrite conceptual and/or technical blog posts\n\nFor any further detail, see the contacts in the home page"
+  },
+  {
+    "objectID": "participate.html#different-ways-to-participate",
+    "href": "participate.html#different-ways-to-participate",
+    "title": "Participate",
+    "section": "",
+    "text": "There are different ways to participate to the project:\n\nImagine schemes that can model emotions\nAdapt existing data to one of the proposed schemes\nWrite conceptual and/or technical blog posts\n\nFor any further detail, see the contacts in the home page"
+  },
+  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "The Project",
     "section": "",
-    "text": "Not yet available\n\n\n\nThe database is still under conceptual and technical development. You can participate to the project for speeding up the process!"
+    "text": "Not yet available\n\n\n\nThe project is still under conceptual and technical development. You can participate to the project for speeding up the process!"
   },
   {
     "objectID": "project.html#whats-the-project-about",
     "href": "project.html#whats-the-project-about",
     "title": "The Project",
     "section": "1 What’s the project about",
-    "text": "1 What’s the project about"
+    "text": "1 What’s the project about\nPlease while this page is under construction, please refer to the poster that first introduced the project introduced in this blog post."
   }
 ]

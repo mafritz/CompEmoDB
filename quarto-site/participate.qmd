@@ -6,3 +6,11 @@ date-modified: last-modified
 ---
 
 ## Different ways to participate
+
+There are different ways to participate to the project:
+
+1. Imagine [schemes](./schemes.qmd) that can model emotions
+2. Adapt existing data to one of the proposed schemes
+3. Write conceptual and/or technical [blog posts](./blog.qmd)
+
+For any further detail, see the contacts in the [home page](index.qmd)

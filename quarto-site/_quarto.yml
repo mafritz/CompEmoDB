@@ -4,7 +4,7 @@ project:
 
 website:
   title: "CompEmoDB"
-  site-url: "https://comp-emo-db.github.io"
+  site-url: "https://mafritz.ch/comp-emo-db/"
   navbar:
     title: "{CompEmoDB}"
     background: "light"

@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>CompEmoDB</title>
-<link>https://comp-emo-db.github.io/blog.html</link>
-<atom:link href="https://comp-emo-db.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://mafritz.ch/comp-emo-db/blog.html</link>
+<atom:link href="https://mafritz.ch/comp-emo-db/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.554</generator>
 <lastBuildDate>Sat, 13 Jul 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Towards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.</title>
   <dc:creator>Mattia Fritz</dc:creator>
-  <link>https://comp-emo-db.github.io/posts/isre2024-poster-presentation/</link>
+  <link>https://mafritz.ch/comp-emo-db/posts/isre2024-poster-presentation/</link>
   <description><![CDATA[ 
 
 
@@ -31,7 +31,7 @@
 <div id="fig-poster-full-page" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-poster-full-page-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://comp-emo-db.github.io/posts/isre2024-poster-presentation/poster-image.png" class="img-fluid figure-img">
+<img src="https://mafritz.ch/comp-emo-db/posts/isre2024-poster-presentation/poster-image.png" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-poster-full-page-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;1: Image of the presented poster
@@ -61,7 +61,7 @@ Suri, G., &amp; Gross, J. J. (2022). What is an emotion? A connectionist perspec
   title = {Towards a Collective, Theory-Agnostic, and Loosely Structured
     Database of Componential Emotions. {The} {Poster} {Companion.}},
   date = {2024-07-14},
-  url = {https://comp-emo-db.github.io/posts/isre2024-poster-presentation},
+  url = {https://mafritz.ch/comp-emo-db//posts/isre2024-poster-presentation},
   langid = {en},
   abstract = {The poster that first introduced the project at the
     International Society for Research on Emotion (ISRE) conference in
@@ -70,12 +70,12 @@ Suri, G., &amp; Gross, J. J. (2022). What is an emotion? A connectionist perspec
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-fritz2024" class="csl-entry quarto-appendix-citeas">
 Fritz, M. (2024, July 14). <em>Towards a collective, theory-agnostic,
 and loosely structured database of componential emotions. The Poster
-Companion.</em> <a href="https://comp-emo-db.github.io/posts/isre2024-poster-presentation">https://comp-emo-db.github.io/posts/isre2024-poster-presentation</a>
+Companion.</em> <a href="https://mafritz.ch/comp-emo-db//posts/isre2024-poster-presentation">https://mafritz.ch/comp-emo-db//posts/isre2024-poster-presentation</a>
 </div></div></section></div> ]]></description>
   <category>news</category>
   <category>conference</category>
   <category>poster</category>
-  <guid>https://comp-emo-db.github.io/posts/isre2024-poster-presentation/</guid>
+  <guid>https://mafritz.ch/comp-emo-db/posts/isre2024-poster-presentation/</guid>
   <pubDate>Sat, 13 Jul 2024 22:00:00 GMT</pubDate>
 </item>
 </channel>

@@ -1,1 +1,1 @@
-Sitemap: https://comp-emo-db.github.io/sitemap.xml
+Sitemap: https://mafritz.ch/comp-emo-db/sitemap.xml
