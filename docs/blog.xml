@@ -9,7 +9,7 @@
 <link>https://mafritz.ch/comp-emo-db/blog.html</link>
 <atom:link href="https://mafritz.ch/comp-emo-db/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.554</generator>
+<generator>quarto-1.5.55</generator>
 <lastBuildDate>Sat, 13 Jul 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Towards a collective, theory-agnostic, and loosely structured database of componential emotions. The Poster Companion.</title>
@@ -28,7 +28,7 @@
 <section id="the-poster" class="level2" data-number="2">
 <h2 data-number="2" class="anchored" data-anchor-id="the-poster"><span class="header-section-number">2</span> The Poster</h2>
 <p>The image of the poster is depicted in Figure&nbsp;1. The content is organized in three columns, with the first briefly presenting the issue, the second the possible solution, and the third the possible applications of the database.</p>
-<div id="fig-poster-full-page" class="quarto-figure quarto-figure-center quarto-float anchored">
+<div id="fig-poster-full-page" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-poster-full-page-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="https://mafritz.ch/comp-emo-db/posts/isre2024-poster-presentation/poster-image.png" class="img-fluid figure-img">
@@ -61,7 +61,7 @@ Suri, G., &amp; Gross, J. J. (2022). What is an emotion? A connectionist perspec
   title = {Towards a Collective, Theory-Agnostic, and Loosely Structured
     Database of Componential Emotions. {The} {Poster} {Companion.}},
   date = {2024-07-14},
-  url = {https://mafritz.ch/comp-emo-db//posts/isre2024-poster-presentation},
+  url = {https://mafritz.ch/comp-emo-db/posts/isre2024-poster-presentation/},
   langid = {en},
   abstract = {The poster that first introduced the project at the
     International Society for Research on Emotion (ISRE) conference in
@@ -70,7 +70,7 @@ Suri, G., &amp; Gross, J. J. (2022). What is an emotion? A connectionist perspec
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-fritz2024" class="csl-entry quarto-appendix-citeas">
 Fritz, M. (2024, July 14). <em>Towards a collective, theory-agnostic,
 and loosely structured database of componential emotions. The Poster
-Companion.</em> <a href="https://mafritz.ch/comp-emo-db//posts/isre2024-poster-presentation">https://mafritz.ch/comp-emo-db//posts/isre2024-poster-presentation</a>
+Companion.</em> <a href="https://mafritz.ch/comp-emo-db/posts/isre2024-poster-presentation/">https://mafritz.ch/comp-emo-db/posts/isre2024-poster-presentation/</a>
 </div></div></section></div> ]]></description>
   <category>news</category>
   <category>conference</category>

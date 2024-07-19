@@ -5,6 +5,9 @@ project:
 website:
   title: "CompEmoDB"
   site-url: "https://mafritz.ch/comp-emo-db/"
+  repo-url: "https://github.com/mafritz/comp-emo-db"
+  repo-subdir: "quarto-site"
+  repo-branch: "dev"
   navbar:
     title: "{CompEmoDB}"
     background: "light"
